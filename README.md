@@ -1,11 +1,8 @@
 <div align="center">
   <a href="https://www.appaddle.com" target="_blank">
-    <img src="https://www.appaddle.com/logo.svg" alt="Appaddle Logo" width="100"/>
+    <img src="https://github.com/helloAppaddle/helloAppaddle/blob/main/logo.png?raw=true" alt="Appaddle Logo" width="200"/>
   </a>
-  <h1>
-    <b>Appaddle</b>
-  </h1>
-  <h3>Go from idea to paying customers in days, not months.</h3>
+  <h3>Launch your production-ready MVP in 4 weeks. AI writes 80%, our senior engineers perfect the last 20%. From idea to investor-ready application.</h3>
 </div>
 
 ---
@@ -78,9 +75,9 @@ We use modern, reliable, and scalable technologies to build robust applications.
 
 We practice what we preach. We're currently building our next project in public to showcase our process, quality, and speed. Follow along to see how we work!
 
-- **Current Project:** `[Your Project Name Here - e.g., AI Testimonial Collector]`
-- **See the Progress:** `[Link to your Project's Public GitHub Repo]`
-- **Follow the Journey:** `[Link to your Twitter/X Profile]`
+- **Current Project:** `https://www.appaddle.com/work`
+- **See the Progress:** `https://github.com/helloAppaddle`
+- **Follow the Journey:** `https://linkedin.com/company/appaddle`
 
 ---
 
@@ -98,6 +95,6 @@ Let's talk about how we can bring your vision to life. Get a free, no-obligation
 
 <div align="center">
   <a href="https://www.appaddle.com" target="_blank">Website</a> •
-  <a href="[YOUR_TWITTER_LINK_HERE]" target="_blank">Twitter/X</a> •
-  <a href="[YOUR_LINKEDIN_LINK_HERE]" target="_blank">LinkedIn</a>
+  <a href="https://x.com/apppaddle" target="_blank">Twitter/X</a> •
+  <a href="https://linkedin.com/company/appaddle" target="_blank">LinkedIn</a>
 </div>
